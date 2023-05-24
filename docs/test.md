@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Markdown kitchen sink
-nav_order: 1
+nav_order: 2
 ---
 ### Hello! 2
