@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UI Components
+title: Alma Documentation
 nav_order: 3
 has_children: true
 permalink: /docs/alma_documentation
