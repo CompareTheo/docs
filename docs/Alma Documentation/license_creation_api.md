@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Alma - License Creation API
-nav_order: 2
+title: The License API
+parent: Alma Documentation
+nav_order: 5
 ---
 ### The License API
 
