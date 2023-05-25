@@ -15,5 +15,9 @@ The license API requires the creation of a "license object" that is pushed to Al
 
 <div markdown="block">
 {: .warning }
-It is imperative that all license creation or modification scripts are tested in the sandbox environment first. Alma does not permit users to delete created license records. Once a license has been created, upon deletion, it will be marked "deleted" but cannot be removed from the database.
+It is imperative that all license creation or modification scripts are tested in the sandbox environment first. 
+
+Alma does not permit users to delete created license records.
+
+Once a license has been created, upon deletion, it will be marked "deleted" but cannot be removed from the database.
 </div>
