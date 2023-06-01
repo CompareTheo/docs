@@ -37,8 +37,13 @@ nav_order: 1
 - [ ] Align Activated E-Resources with Vendors - This information will need to be populated (updated) once we go-live.
 - [ ] Define Annual Reporting Statistics Needed - Align these with information creation and gathering in Alma.
 - [ ] Remove P2E Stragglers - These records *should not* have migrated and will need to be cleaned up.
-- [ ] Create Documentation for inserting "Perpetual Access" stanzas. 
+- [ ] Procedure and Documentation for E-Journal "Perpetual Access" stanzas update in Alma.
 - [ ] Define "API Restriction Profiles" and Strategy (@Steph)
 - [ ] Configure "Invoice Review" Rules (@Ron) - These can be **very** granular.
 - [ ] Configure "Invoice Approval" Rules (@Ron) - These can be **very** granular.
 - [ ] Configure "Purchase Review" Rules (@Ron) - These can be **very** granular.
+- [ ] Group all of our P2E titles into collections for easy internal searching - Think about a strategy for this, we might mirror the Sierra strategy, or we might think about combining things and having fewer "Colleciton 1, Collection 2, Collection 3" sets.
+- [ ] Define which collections will need to exist so that we can also group the non-CZ managed and non-P2Ed once they are loaded.
+- [ ] Define all owned collections activated in the "Community Zone" and work to get vendor defined (purchase information verified) title lists for these collections where possible.
+- [ ] Discuss and design procedure for utilizing "Community Zone Update Tasks List" for keeping an eye on our owned titles managed in the community zone.
+- [ ] Discuss and design a "tasking" workflow that might supplement or supplant the "NON-GOBI" E-Resource Tracker
