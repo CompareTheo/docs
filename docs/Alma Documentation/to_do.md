@@ -20,7 +20,7 @@ nav_order: 1
 - [ ] "Receiving" Transit time  - Get this behavior nailed down and clearly define it. (@Glenn)
 - [ ] Kanopy "Import Profile" might need to create the PO & an inventory record in the import process. Work with this again. Do Kanopy imports overlay existing imports? - Perhaps we default this to NO and then manually process the "renewed" lease.
 - [ ] Create "Vendor Interfaces" in Alma - We should think about how those interfaces will best help us query the system.
-- [ ] Configure "Shipping, Insurance, et al. to not auto insert during invoice creation.
+- [x] Configure "Shipping, Insurance, et al. to not auto insert during invoice creation. (Completed: 6/1/2023 @ 1742)
 - [ ] Liaison Automatic Fund Reporting Setup
 - [ ] ALMA CATs Procedure Documentation (@Cristina)
 - [ ] GOBI API Integration
@@ -47,3 +47,4 @@ nav_order: 1
 - [ ] Define all owned collections activated in the "Community Zone" and work to get vendor defined (purchase information verified) title lists for these collections where possible.
 - [ ] Discuss and design procedure for utilizing "Community Zone Update Tasks List" for keeping an eye on our owned titles managed in the community zone.
 - [ ] Discuss and design a "tasking" workflow that might supplement or supplant the "NON-GOBI" E-Resource Tracker
+- [ ] Paper Idea: How does a mid-size university use the Alma APIs? How do you implement that learning process? How do you make those decisions as a group? What does that group look like?
