@@ -9,7 +9,7 @@ nav_order: 1
 
 - [ ] Update "Access Models" List
 - [ ] Create "Import Profiles"
-- [ ] DDA & EBA Pool Management Strategy
+- [ ] DDA & EBA Pool Management Strategy - what does it look like to manage these in the PDA area - what do the records look like - how is a purchased title processed out of that pool. 
 - [ ] Create "Send To Cataloging" Workflow Documentation (@Kim)
 - [ ] Update P2E with Access Models
 - [ ] Create "Receiving" Workflow Documentation (@Cristina)
