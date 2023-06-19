@@ -10,12 +10,12 @@ nav_order: 1
 - [ ] Update "Access Models" List
 - [ ] Create "Import Profiles"
 - [ ] DDA & EBA Pool Management Strategy - what does it look like to manage these in the PDA area - what do the records look like - how is a purchased title processed out of that pool. 
-- [ ] Create "Send To Cataloging" Workflow Documentation (@Kim)
+- [X] Create "Send To Cataloging" Workflow Documentation (@Kim)
 - [ ] Update P2E with Access Models
-- [ ] Create "Receiving" Workflow Documentation (@Cristina)
+- [X] Create "Receiving" Workflow Documentation (@Cristina)
 - [ ] "Ordering" Workflow Documentation (@Ron)
 - [ ] "CVG Load to Portfolio Loader" Conversion Procedure - Marie says that split coverage will be an issue. (@Marie)
-- [ ] Ugly Primo from "Display in Discovery" click (@Steph)
+- [X] Ugly Primo from "Display in Discovery" click (@Steph)
 - [ ] "Over-encumbered" Funds - Do we let care?
 - [ ] "Receiving" Transit time  - Get this behavior nailed down and clearly define it. (@Glenn)
 - [ ] Kanopy "Import Profile" might need to create the PO & an inventory record in the import process. Work with this again. Do Kanopy imports overlay existing imports? - Perhaps we default this to NO and then manually process the "renewed" lease.
