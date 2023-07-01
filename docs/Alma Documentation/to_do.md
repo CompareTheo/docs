@@ -17,7 +17,7 @@ nav_order: 1
 - [ ] "CVG Load to Portfolio Loader" Conversion Procedure - Marie says that split coverage will be an issue. (@Marie)
 - [X] Ugly Primo from "Display in Discovery" click (@Steph)
 - [ ] "Over-encumbered" Funds - Do we let care?
-- [ ] "Receiving" Transit time  - Get this behavior nailed down and clearly define it. (@Glenn)
+- [X] "Receiving" Transit time  - Get this behavior nailed down and clearly define it. (@Glenn)
 - [ ] Kanopy "Import Profile" might need to create the PO & an inventory record in the import process. Work with this again. Do Kanopy imports overlay existing imports? - Perhaps we default this to NO and then manually process the "renewed" lease.
 - [ ] Create "Vendor Interfaces" in Alma - We should think about how those interfaces will best help us query the system.
 - [x] Configure "Shipping, Insurance, et al." to not auto insert during invoice creation. (Completed: 6/1/2023 @ 1742)
@@ -31,7 +31,7 @@ nav_order: 1
 - [ ] "Access Model" Display Configuration - What does this look like? License Display + Access, Access Only, License Only.
 - [ ] Write "License API" Documentation
 - [ ] Write "Vendor API" Documentation 
-- [ ] Acquisitions Reporting Code Definitions (@Glenn)
+- [ ] Acquisitions Reporting Code Definitions (@Glenn) [delay one year]
 - [ ] Create "Ordering Templates" - Create only where necessary. (@Ron)
 - [ ] Create "Baby Bib" Templates - This will be defined by the .EDI structure. - Create only where necessary. (@Ron)
 - [ ] Align Activated E-Resources with Vendors - This information will need to be populated (updated) once we go-live.
