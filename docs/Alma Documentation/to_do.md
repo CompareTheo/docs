@@ -10,8 +10,8 @@ nav_order: 1
 - [ ] Update "Access Models" List
 - [ ] Define how "EOY" stats will be collected using "Advanced" searching methods. (@Ron)
 - [ ] Create "Import Profiles"
-- [ ] DDA & EBA Pool Management Strategy
-- [ ] Create "Send To Cataloging" Workflow Documentation (@Kim)
+- [ ] DDA & EBA Pool Management Strategy - what does it look like to manage these in the PDA area - what do the records look like - how is a purchased title processed out of that pool. 
+- [X] Create "Send To Cataloging" Workflow Documentation (@Kim)
 - [ ] Update P2E with Access Models
 - [x] Create "Receiving" Workflow Documentation (@Cristina)
 - [ ] "Ordering" Workflow Documentation (@Ron)
@@ -32,7 +32,7 @@ nav_order: 1
 - [ ] "Access Model" Display Configuration - What does this look like? License Display + Access, Access Only, License Only.
 - [ ] Write "License API" Documentation
 - [ ] Write "Vendor API" Documentation 
-- [ ] Acquisitions Reporting Code Definitions (@Glenn)
+- [ ] Acquisitions Reporting Code Definitions (@Glenn) [delay one year]
 - [ ] Create "Ordering Templates" - Create only where necessary. (@Ron)
 - [ ] Create "Baby Bib" Templates - This will be defined by the .EDI structure. - Create only where necessary. (@Ron)
 - [ ] Align Activated E-Resources with Vendors - This information will need to be populated (updated) once we go-live.
