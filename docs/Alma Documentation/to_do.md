@@ -8,16 +8,17 @@ nav_order: 1
 ### To Do List
 
 - [ ] Update "Access Models" List
+- [ ] Define how "EOY" stats will be collected using "Advanced" searching methods. (@Ron)
 - [ ] Create "Import Profiles"
 - [ ] DDA & EBA Pool Management Strategy
 - [ ] Create "Send To Cataloging" Workflow Documentation (@Kim)
 - [ ] Update P2E with Access Models
-- [ ] Create "Receiving" Workflow Documentation (@Cristina)
+- [x] Create "Receiving" Workflow Documentation (@Cristina)
 - [ ] "Ordering" Workflow Documentation (@Ron)
 - [ ] "CVG Load to Portfolio Loader" Conversion Procedure - Marie says that split coverage will be an issue. (@Marie)
-- [ ] Ugly Primo from "Display in Discovery" click (@Steph)
+- [x] Ugly Primo from "Display in Discovery" click (@Steph)
 - [ ] "Over-encumbered" Funds - Do we let care?
-- [ ] "Receiving" Transit time  - Get this behavior nailed down and clearly define it. (@Glenn)
+- [x] "Receiving" Transit time  - Get this behavior nailed down and clearly define it. (@Glenn)
 - [ ] Kanopy "Import Profile" might need to create the PO & an inventory record in the import process. Work with this again. Do Kanopy imports overlay existing imports? - Perhaps we default this to NO and then manually process the "renewed" lease.
 - [ ] Create "Vendor Interfaces" in Alma - We should think about how those interfaces will best help us query the system.
 - [x] Configure "Shipping, Insurance, et al." to not auto insert during invoice creation. (Completed: 6/1/2023 @ 1742)
