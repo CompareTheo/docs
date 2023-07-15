@@ -8,14 +8,8 @@ nav_order: 3
 
 #### Usage
 
-The license API requires the creation of a "license object" that is pushed to Alma via a standard *post* using the API. This license object is detailed in the [Alma documentation](https://developers.exlibrisgroup.com/alma/apis/docs/xsd/rest_license.xsd/?tags=POST). 
-
-However, this documentation is not clear regarding several key XML structural details that are necessary in the proper formation of the license object.
-
-1. License terms are defined via a pair of definitions including a code (defined in the Alma 'LicenseTerms' code table) and a value (which is determined by the value defined in the pair).
-2. The example license object provided by ExLibris lacks clarity around the way term code/value pairs are structured within the object. For each term code/value pair a new XML *term* element needs to be created in order for the term to be reflected properly in Alma. 
 
 <div markdown="block">
-{: .warning }
-It is imperative that all license creation or modification scripts are tested in the sandbox environment first. Once a license has been created, upon *deletion*, it will be marked "deleted" but cannot be removed from the database.
+{: .alert }
+An excel template is available for bulk loading titles through the Portfolio Loader. The template can be retrieved [here](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/Electronic_Resource_Management/030_Working_with_Local_Electronic_Resources/015Managing_Electronic_Resources#Portfolio_Loader). This template is periodically updated by ExLibris and might require downloading again.
 </div>
