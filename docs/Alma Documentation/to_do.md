@@ -52,3 +52,4 @@ nav_order: 1
 - [ ] Create "Invoice Approval Rules" that align with Ron's priorities for getting an extra layer of approval on invoices.
 - [ ] Ask Ron about setting an invoice amount Threshold.
 - [ ] Configure "Acquisitions Alerts."
+- [ ] How are "Rush" titles marked when a request is received after ordering and before receiving?
