@@ -8,7 +8,6 @@ nav_order: 1
 ### To Do List
 
 #### Active
-- [ ] Update "Access Models" List
 - [ ] Define how "EOY" stats will be collected using "Advanced" searching methods. (@Ron)
 - [ ] Create "Import Profiles"
 - [ ] DDA & EBA Pool Management Strategy - what does it look like to manage these in the PDA area - what do the records look like - how is a purchased title processed out of that pool. - Write this up for Marie. 
@@ -62,3 +61,4 @@ nav_order: 1
 - [x] Ugly Primo from "Display in Discovery" click (@Steph)
 - [x] Create "Receiving" Workflow Documentation (@Cristina)
 - [X] Create "Send To Cataloging" Workflow Documentation (@Kim)
+- [x] Update "Access Models" List
