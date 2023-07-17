@@ -13,7 +13,7 @@ Alma's Portfolio Loader is used in four primary ways:
 3. Import and export portfolio information.
 4. Update existing electronic collections and individual portfolios within that collection (including: proxy settings, URL, parser parameters, inventory management groups, etc.).
 
-This tool conducts **bulk** edits on a e-resource collection. For individual portfolio additions, use the "part of electronic collection" option when loading portfolios.
+This tool conducts **bulk** edits on an e-resource collection. For individual portfolio additions, use the "part of electronic collection" option when loading portfolios.
 
 
 <div markdown="block">
