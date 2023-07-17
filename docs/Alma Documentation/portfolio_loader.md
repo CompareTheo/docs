@@ -4,9 +4,9 @@ title: E-Resource Portfolio Loader
 parent: Alma Documentation
 nav_order: 3
 ---
-### The E-Resource Portfolio Loader
+## The E-Resource Portfolio Loader
 
-#### Usage
+### Usage
 Alma's Portfolio Loader is used in four primary ways: 
 1. Activate or deactivate collections linked to your Institution Zone from the Community Zone. (These are titles that are actively managed in the community zone).
 2. Create a new electronic collection in the Institution Zone from a list of existing titles.
@@ -18,6 +18,11 @@ This tool conducts **bulk** edits on an e-resource collection. For individual po
 <div markdown="block">
 {: .note }
 An excel template is available for bulk loading titles through the Portfolio Loader. The template can be retrieved [here](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/Electronic_Resource_Management/030_Working_with_Local_Electronic_Resources/015Managing_Electronic_Resources#Portfolio_Loader). This template is periodically updated by ExLibris and might require downloading again.
+</div>
+
+<div markdown="block">
+{: .warning }
+At least one of the following fields must be available in the Excel file: PORTFOLIO_PID, ISSN, ISBN, or OTHER_SYSTEM_NUMBER.
 </div>
 
 | Field                 | MARC Mapping/Description                                                     |
@@ -33,8 +38,3 @@ An excel template is available for bulk loading titles through the Portfolio Loa
 | PROXY_LEVEL           | PORTFOLIO or SERVICE                                                         |
 | OWNERSHIP             | Hannon                                                                       |
 | PUBLIC_NOTES          | Free Text Field (Kanopy Expiration Dates)                                    |
-
-<div markdown="block">
-{: .warning }
-At least one of the following fields must be available in the Excel file: PORTFOLIO_PID, ISSN, ISBN, or OTHER_SYSTEM_NUMBER.
-</div>
