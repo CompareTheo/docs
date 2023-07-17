@@ -37,4 +37,4 @@ An excel template is available for bulk loading titles through the Portfolio Loa
 <div markdown="block">
 {: .warning }
 At least one of the following fields must be available in the Excel file: PORTFOLIO_PID, ISSN, ISBN, or OTHER_SYSTEM_NUMBER.
-</div
+</div>
