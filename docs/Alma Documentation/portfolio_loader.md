@@ -4,9 +4,9 @@ title: E-Resource Portfolio Loader
 parent: Alma Documentation
 nav_order: 3
 ---
-## The E-Resource Portfolio Loader
+### The E-Resource Portfolio Loader
 
-### Usage
+#### Usage
 Alma's Portfolio Loader is used in four primary ways: 
 1. Activate or deactivate collections linked to your Institution Zone from the Community Zone. (These are titles that are actively managed in the community zone).
 2. Create a new electronic collection in the Institution Zone from a list of existing titles.
@@ -38,3 +38,5 @@ At least one of the following fields must be available in the Excel file: PORTFO
 | PROXY_LEVEL           | PORTFOLIO or SERVICE                                                         |
 | OWNERSHIP             | Hannon                                                                       |
 | PUBLIC_NOTES          | Free Text Field (Kanopy Expiration Dates)                                    |
+
+#### Automated File Creation
