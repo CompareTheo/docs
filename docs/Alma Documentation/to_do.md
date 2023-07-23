@@ -43,6 +43,7 @@ nav_order: 1
 - [ ] Faculty Select Setup (@Steph, @Jamie)
 - [ ] Continuations will need a vendor change from main_gobi_dep to main_gobi
 - [ ] Jobs to automate the STC process from the ACD side?
+- [ ] Vlookup MAP Standing Order back to spreadsheet from Glenn to send to GOBI.
 
 #### Complete
 - [x] Setup Printers
