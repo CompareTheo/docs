@@ -6,6 +6,8 @@ nav_order: 4
 ---
 
 ### Types of Import Profiles
+<br />
+<br />
 
 **New Order**: Used for loading bibliographic records with embedded order data (EOD). This profile will create a new bibliographic record, a PO-Line from the embedded order data, and physical/electronic inventory. (e.g., GOBI approvals, Kanopy)
 
