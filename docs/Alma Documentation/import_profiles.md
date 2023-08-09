@@ -13,3 +13,10 @@ nav_order: 4
 **Update Inventory**: Used for updating inventory or bibliographic records with an associated PO-Line. The only match point in this profile is the PO line reference number. (e.g., FY23 purchases needing payment in Alma)
 
 **Repository**: Used for loading/updating bibliographic records and physical/electronic inventory (e.g., Streaming video collections, E-Resource collections)
+<br />
+
+#### New Order Import Profile
+
+| Profile Details |
+| --- | --- |
+| Field | Defined Value |
