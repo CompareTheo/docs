@@ -15,8 +15,9 @@ nav_order: 4
 **Repository**: Used for loading/updating bibliographic records and physical/electronic inventory (e.g., Streaming video collections, E-Resource collections)
 <br />
 
-#### New Order Import Profile
+#### Repository Import Profile
 
 | Profile Details |
-| --- | --- |
-| Field | Defined Value |
+| --- | --- | --- |
+| Field | Example Value | Formatting Instructions |
+| Profile Name: | main_nameofprofile | All profile names created for the Westchester campus library should be formatted in all lowercase with no spaces and should be proceeded by  "main_".
