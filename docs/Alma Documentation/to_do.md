@@ -64,3 +64,24 @@ nav_order: 1
 - [x] "Access Model" Display Configuration - What does this look like? License Display + Access, Access Only, License Only.
 - [x] Group all of our P2E titles into collections for easy internal searching - Think about a strategy for this, we might mirror the Sierra strategy, or we might think about combining things and having fewer "Collection 1, Collection 2, Collection 3" sets.
 - [x] Define all owned collections activated in the "Community Zone" and work to get vendor defined (purchase information verified) title lists for these collections where possible.
+
+#### Meeting with GJG
+
+- Reassessing workflows in light of Alma.
+- There are two workflows that have risen to the top related to ordering (outside of GOBI) that we need to talk about.
+- There is a feeling/sentiment that we can do a better job of supporting Nataly in her work while also increasing transparency.
+- My belief about the best way to support Nataly and the philosophy that underpins the plans that you will hear and the ideas I am presenting today.
+- CATS & Faculty Request (WUFOO Requests)
+
+- Let's start with CATS
+- I want to get more involved in CATS then I have been since Nataly has taken her new job.
+- Chan history & how things got off track.
+- The plan for Fall 2023 and the timeline for "restarting" CATS in ernest.
+
+- Faculty Requests/Tracking purchases
+- Cristina and I have met to talk through our workflow suggestions. Nothing presented is final... but this is just to show that we are thinking through this.
+- First, we think it might be necessary to make some changes to the faculty request form.
+- Go over the changes. 
+- Second, we have been thinking about how to manage data that comes in through the wufoo form.
+- Third, This is the new preposed workflow.
+- We are making the assumption and advocating that nataly be the only contact point for faculty members in this process on behalf of our department. Where Nataly does not contact them (rush processes), it will fall to circ but nataly will be notified that the title went to cataloging.
