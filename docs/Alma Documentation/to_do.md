@@ -36,6 +36,7 @@ nav_order: 1
 - [ ] Continuations will need a vendor change from main_gobi_dep to main_gobi
 - [ ] Jobs to automate the STC process from the ACD side?
 - [ ] We are going to need to go back and look at all portfolios loaded and uncover all of the titles in each portfolio that are "inactive" due to lack of link. The link is in the 856 of the bib in most cases, but did not make it in the migration to the portfolio itself.
+- [ ] How does EZProxy interact in Alma? How are URL vs. QURL determined? Can we solve the ASP issues?
 
 #### Complete
 - [x] Setup Printers
