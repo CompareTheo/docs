@@ -11,7 +11,6 @@ nav_order: 1
 - [ ] Define how "EOY" stats will be collected using "Advanced" searching methods. (@Ron)
 - [ ] "Ordering" Workflow Documentation (@Ron)
 - [ ] "CVG Load to Portfolio Loader" Conversion Procedure - Marie says that split coverage will be an issue. (@Marie)
-- [ ] Kanopy "Import Profile" might need to create the PO & an inventory record in the import process. Work with this again. Do Kanopy imports overlay existing imports? - Perhaps we default this to NO and then manually process the "renewed" lease.
 - [ ] Create "Vendor Interfaces" in Alma - We should think about how those interfaces will best help us query the system.
 - [ ] Liaison Automatic Fund Reporting Setup
 - [ ] ALMA CATs Procedure Documentation (@Cristina)
@@ -30,15 +29,19 @@ nav_order: 1
 - [ ] Discuss and design procedure for utilizing "Community Zone Update Tasks List" for keeping an eye on our owned titles managed in the community zone.
 - [ ] Discuss and design a "tasking" workflow that might supplement or supplant the "NON-GOBI" E-Resource Tracker
 - [ ] Paper Idea: How does a mid-size university use the Alma APIs? How do you implement that learning process? How do you make those decisions as a group? What does that group look like?
-- [ ] Ask Ron about setting an invoice amount Threshold.
 - [ ] How are "Rush" titles marked when a request is received after ordering and before receiving?
 - [ ] Faculty Select Setup (@Steph, @Jamie)
 - [ ] Continuations will need a vendor change from main_gobi_dep to main_gobi
 - [ ] Jobs to automate the STC process from the ACD side?
 - [ ] We are going to need to go back and look at all portfolios loaded and uncover all of the titles in each portfolio that are "inactive" due to lack of link. The link is in the 856 of the bib in most cases, but did not make it in the migration to the portfolio itself.
 - [ ] How does EZProxy interact in Alma? How are URL vs. QURL determined? Can we solve the ASP issues?
+- [ ] Look at QC queries in Sierra to see if they need to be saved before Sierra goes away.
+- [ ] Make a dashboard for where we are in testing the metadata and edi load automation.
+- [ ] ACRL, IPEDS, and All-Star(Law) are the reporting associations we report our data too each year. 
 
 #### Complete
+- [x] Ask Ron about setting an invoice amount Threshold.
+- [x] Kanopy "Import Profile" might need to create the PO & an inventory record in the import process. Work with this again. Do Kanopy imports overlay existing imports? - Perhaps we default this to NO and then manually process the "renewed" lease.
 - [x] Setup Printers
 - [x] Define "API Restriction Profiles" and Strategy (@Steph)
 - [x] GOBI API Integration
