@@ -35,6 +35,25 @@ nav_order: 1
 - [ ] How does EZProxy interact in Alma? How are URL vs. QURL determined? Can we solve the ASP issues?
 - [ ] Make a dashboard for where we are in testing the metadata and edi load automation.
 - [ ] ACRL, IPEDS, and All-Star(Law) are the reporting associations we report our data too each year. 
+- [ ] Find examples of "Correct order record types for all P2E master bib records" (@Marie)
+- [ ] Schedule time to flesh out the ["E-resourcePriorityTasks"](https://lmu.box.com/s/3q9lqvm23yh6fancjqncvbirauqxcvjs) sheet with those procedures that you and Ron have already highlighted and discussed on the ["ERA Procedures"](https://lmu.box.com/s/tsanew1xi4gdvlu9g3wfopwi20jmgz2k) sheet.
+- [ ] Investigate "Correct order record types for all P2E master bib records" and write up something for Marie to review.
+- [ ] Identify migrated ebooks without portfolios attached. Create a logical set so that Marie can see the query and review the total record count.
+- [ ] Identify migrated ebooks with two portfolio from the same provider.
+- [ ] Write documentation about the GOBI import profiles.
+- [ ] Create import profiles for EOD records from subaccounts -08, -16, -47, -48, -49.
+- [ ] Make sure all of the GOBI subaccounts are mapped in the vendor accounts area of the main_gobi vendor record.
+- [ ] Investigate using analytics to create a scheduled list of ISBNs of new non-GOBI print purchases.
+- [ ] Add additional procedures needed to the ["ERA Procedures"](https://lmu.box.com/s/tsanew1xi4gdvlu9g3wfopwi20jmgz2k) sheet.
+- [ ] Document Normalization Rules needed for MARC record loads of locally managed continually updated record ingest.
+- [ ] MMS ID 991022637483008066 had its visibility turned off in Ebook Central. We are waiting to see what will happen with that title; mainly, we want to know if it will be removed from the ProQuest Ebooks collection in Alma automatically.
+- [ ] Document rules for LibEres email account management. Where do things go? What is the process?
+- [ ] Create documentation for retrieving records from OCLC WMS and loading them into Alma. (This might need to be re-written once we have the normalization rules in pace. Also... once all of that is in place, write a proposal for how Alma could process these in the overnight period and the ERA could QC the work at the scheduled time instead of having to take the time to do the physical loads themselves.)
+- [ ] Need s full description of the issue with ECHO360 so that we can have a discussion with Jamie and with IT about possible solutions. 
+- [ ] Write up the messy CZ Swank MARC Record issue for Glenn so that he can talk with Swank while at Charleston. 
+- [ ] Write up changes to the "Request a Book Form" and get those to Astra ASAP for changes so that we can begin piloting the form before Thanksgiving for a launch in January.
+- [ ] Is it possible to do an integration between libguides and records in Alma? How would that work? So that we can keep the two database lists in sync.
+- [ ] Add reporting codes to Alma configuration so that they appear as options in the PO lines.
 
 #### Complete
 - [x] Look at QC queries in Sierra to see if they need to be saved before Sierra goes away.
