@@ -8,8 +8,6 @@ nav_order: 1
 ### To Do List
 
 #### Active
-- [ ] Define how "EOY" stats will be collected using "Advanced" searching methods. (@Ron)
-- [ ] "Ordering" Workflow Documentation (@Ron)
 - [ ] "CVG Load to Portfolio Loader" Conversion Procedure - Marie says that split coverage will be an issue. (@Marie)
 - [ ] Create "Vendor Interfaces" in Alma - We should think about how those interfaces will best help us query the system.
 - [ ] Liaison Automatic Fund Reporting Setup
@@ -18,15 +16,10 @@ nav_order: 1
 - [ ] Alma "Workday" Integration
 - [ ] Write "License API" Documentation
 - [ ] Write "Vendor API" Documentation 
-- [ ] Acquisitions Reporting Code Definitions (@Glenn) [delay one year]
 - [ ] Create "Ordering Templates" - Create only where necessary. (@Ron)
 - [ ] Create "Baby Bib" Templates - This will be defined by the .EDI structure. - Create only where necessary. (@Ron)
-- [ ] Align Activated E-Resources with Vendors - This information will need to be populated (updated) once we go-live.
-- [ ] Define Annual Reporting Statistics Needed - Align these with information creation and gathering in Alma.
 - [ ] Remove P2E Stragglers - These records *should not* have migrated and will need to be cleaned up.
 - [ ] Procedure and Documentation for E-Journal "Perpetual Access" stanzas update in Alma.
-- [ ] Define which collections will need to exist so that we can also group the non-CZ managed and non-P2Ed once they are loaded.
-- [ ] Discuss and design procedure for utilizing "Community Zone Update Tasks List" for keeping an eye on our owned titles managed in the community zone.
 - [ ] Discuss and design a "tasking" workflow that might supplement or supplant the "NON-GOBI" E-Resource Tracker
 - [ ] Paper Idea: How does a mid-size university use the Alma APIs? How do you implement that learning process? How do you make those decisions as a group? What does that group look like?
 - [ ] How are "Rush" titles marked when a request is received after ordering and before receiving?
@@ -56,6 +49,12 @@ nav_order: 1
 - [ ] Add reporting codes to Alma configuration so that they appear as options in the PO lines.
 
 #### Complete
+- [x] Discuss and design procedure for utilizing "Community Zone Update Tasks List" for keeping an eye on our owned titles managed in the community zone.
+- [x] Define which collections will need to exist so that we can also group the non-CZ managed and non-P2Ed once they are loaded.
+- [x] Define Annual Reporting Statistics Needed - Align these with information creation and gathering in Alma.
+- [x] Acquisitions Reporting Code Definitions (@Glenn) [delay one year]
+- [X] "Ordering" Workflow Documentation (@Ron)
+- [X] Define how "EOY" stats will be collected using "Advanced" searching methods. (@Ron)
 - [x] Look at QC queries in Sierra to see if they need to be saved before Sierra goes away.
 - [x] Continuations will need a vendor change from main_gobi_dep to main_gobi
 - [x] Jobs to automate the STC process from the ACD side?
