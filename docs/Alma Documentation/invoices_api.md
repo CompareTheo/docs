@@ -29,3 +29,13 @@ nav_order: 6
 #### Working Notes
 
 - Using test record ID 4346732450008066.
+
+<invoice>
+<payment>
+<payment_status>PAID</payment_status>
+<voucher_date>2024-03-11</voucher_date>
+<voucher_number>JM-1234</voucher_number>
+<voucher_amount>150</voucher_amount>
+<voucher_currency>USD</voucher_currency>
+</payment>
+</invoice>
