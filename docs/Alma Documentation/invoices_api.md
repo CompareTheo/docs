@@ -1,7 +1,8 @@
 ---
 layout: default
 title: The Invoices API
-parent: Alma Documentation
+parent: API Documentation
+grand_parent: Alma Documentation
 nav_order: 6
 ---
 

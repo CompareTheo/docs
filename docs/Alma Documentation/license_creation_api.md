@@ -1,9 +1,11 @@
 ---
 layout: default
 title: The License API
-parent: Alma Documentation
+parent: API Documentation
+grand_parent: Alma Documentation
 nav_order: 2
 ---
+
 ### The License API
 
 #### The License Object
